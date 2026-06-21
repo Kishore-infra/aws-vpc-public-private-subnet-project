@@ -531,6 +531,18 @@ Internet access worked successfully.
 [VPC Architecture] 
 (VPC-Architecure.png) 
 
+## Implementation Screenshots
+
+### Public and Private Subnet
+|Subnet|(screenshots/Public-Private-Subnet.png)
+
+### public Route Table
+|Public Route Table|(Screenshots/public-route-table-png)
+
+### Private Route Table
+|Private Route Table|(screenshots/05-private-route-table.png)
+
+
 ## Outcome
 
 Successfully built a production-style AWS VPC architecture with secure access to private resources using a Bastion Host and NAT Gateway.
