@@ -527,6 +527,9 @@ Internet access worked successfully.
 - AWS Network Troubleshooting
 
 ---
+## Architecture Diagram
+[VPC Architecture] 
+(VPC-Architecure.png) 
 
 ## Outcome
 
